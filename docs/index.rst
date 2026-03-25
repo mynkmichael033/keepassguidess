@@ -6,6 +6,12 @@ Introduction
 
 Managing multiple passwords can be challenging, especially when security is a priority. KeePass is a popular password manager that helps users store and manage their login credentials securely. It uses strong encryption to protect sensitive information and allows easy access through a single master password.
 
+.. image:: login-now.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclogportal.com/
+
 This guide provides a complete step-by-step explanation of how to log in to a KeePass account, set it up, and manage your password database effectively.
 
 What is KeePass
